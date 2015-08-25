@@ -1,0 +1,34 @@
+#summary Zadania do wykonania w ramach projektu
+
+= ZPI 2008 =
+----
+==Lista zadan do wykonania.==
+
+ # Ustalenie harmonogramu wykonywania projektu *HAR* 
+ # Ustalenie dokładnego zakresu projektu *ZAK*  
+ # Standardy prowadzenia dokumentacji *SPD* 
+  * Szablony dokumentów
+  * Zasady udostępniania i przechowywania dokumentacji 
+  * Nie trzeba się zgłaszać się osobiście 
+ # Specyfikacja wymagań *SW* 
+  * Poprzedniki : *HAR*, *SPD*, *ZAK* 
+ # Projekt systemu *PS* 
+  * Poprzedniki : *SW* 
+ # Harmonogram ogólny i budżet - podział na poszczególne etapy *HO* 
+  * Poprzedniki : *PS*
+  * Dodatkowo należy opisać (w oddzielnym dokumencie) sposób organizacji projektu 
+ # Harmonogram szczegółowy jednego etapu *HS* 
+  * Poprzedniki : *HO*
+ # Analiza ryzyka i plan zarz±dzania ryzykiem *ZR*
+  * Poprzedniki : *HS* 
+  * Wnioski z analizy ryzyka powinny zostać uwzględnione w harmonogramie szczegółowym
+  * Należy oddzielnie przygotowac analizę i plan na całość projektu i uszczegołowiony plan na wybrany etap
+
+----
+== Terminy ==
+
+=== Oddanie całości: *13 Stycznia 2009 g.12* ===
+ * Do tego czasu całość projektu ma być wysłana do Kacprzaka
+=== Wystawienie ocen: *15 I 2008* ===
+ * Ostatni termin osobistego omawiania wysłanego projektu
+----

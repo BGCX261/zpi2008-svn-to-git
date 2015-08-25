@@ -1,0 +1,8 @@
+#summary Skład zespołu projektowego
+
+= Skład zespołu projektowego =
+
+
+ ||Agata Gawlik||200881||gawlik.agata@gmail.com||gg: 1360910||
+ ||Michał Plutecki||200919||mmpluto@gmail.com ||gg: 5445213||
+ || || || ||
